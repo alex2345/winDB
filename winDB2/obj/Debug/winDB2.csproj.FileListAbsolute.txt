@@ -1,0 +1,11 @@
+C:\Database\winDB\winDB2\winDB2\bin\Debug\winDB2.exe.config
+C:\Database\winDB\winDB2\bin\Debug\winDB2.exe.config
+C:\Database\winDB\winDB2\bin\Debug\library.mdb
+C:\Database\winDB\winDB2\bin\Debug\winDB2.exe
+C:\Database\winDB\winDB2\bin\Debug\winDB2.pdb
+C:\Database\winDB\winDB2\obj\Debug\winDB2.csprojResolveAssemblyReference.cache
+C:\Database\winDB\winDB2\obj\Debug\winDB2.fmLibrary.resources
+C:\Database\winDB\winDB2\obj\Debug\winDB2.Properties.Resources.resources
+C:\Database\winDB\winDB2\obj\Debug\winDB2.csproj.GenerateResource.Cache
+C:\Database\winDB\winDB2\obj\Debug\winDB2.exe
+C:\Database\winDB\winDB2\obj\Debug\winDB2.pdb
